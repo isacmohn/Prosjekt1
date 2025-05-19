@@ -1,0 +1,7 @@
+I dette prosjektet er målet å
+ 
+	- opprette lokal repo på egen pc, opprette text filer, kodefiler i den, slik som denne
+	- Synkronisere denne lokale repoen med github repo 
+	- Adde, commite og få full synkronisering mellom lokal og fjern repo
+	- lage branch fra main repo, gjøre endring i noen av filene, legge til noen, så merge endringene
+
